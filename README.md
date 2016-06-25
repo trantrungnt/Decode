@@ -8,5 +8,8 @@
 + [Dex2Jar](https://sourceforge.net/projects/dex2jar/files/)
 + [JD-GUI](https://github.com/java-decompiler/jd-gui/releases/download/v1.4.0/jd-gui-windows-1.4.0.zip)
 
+![Decode by Dung Le Tien - TechKids](http://i477.photobucket.com/albums/rr132/trungepu/27863913056_63fc1ddfaa_o_zps3owelooc.jpg) 
+
+
 ##Tham khảo
 + [How to get java class from apk file||using dex2jar & jd-gui ||Android tutorial](https://www.youtube.com/watch?v=w7Vw4-iPwUQ)
