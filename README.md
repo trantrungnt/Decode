@@ -1,5 +1,5 @@
 # Decode
-+ [Apk studio](https://apkpure.com/tango-free-video-call-chat/com.sgiggle.production/download?from=details) ==> tool tool dùng dịch ngược
++ [Apk studio](https://apkpure.com/tango-free-video-call-chat/com.sgiggle.production/download?from=details) ==> tool dùng dịch ngược
 + dex2jar  ==> build ra file jar (build file classes.dex.sau khi dung tool apk studio build ra)
 + jd-gui ==> de xem file jar co nhung class nao
 
