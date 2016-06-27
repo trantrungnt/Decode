@@ -14,3 +14,4 @@
 
 ##Tham khảo
 + [How to get java class from apk file||using dex2jar & jd-gui ||Android tutorial](https://www.youtube.com/watch?v=w7Vw4-iPwUQ)
++ [Apk Tool](http://ibotpeaches.github.io/Apktool/install/)
